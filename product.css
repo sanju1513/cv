@@ -1,0 +1,35 @@
+.nightcream{
+    padding: 40px;
+    margin: 50px;
+    color:black;
+    background-color:#CCCCFF ;
+    font-size: 25px;
+    font-family: cursive;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 60%;
+
+  }
+  div,image{
+      background-color: #CCCCFF;
+  }
+  .b{
+      text-align: center;
+      font-size: 45px;
+      font-family: cursive;
+  }
+  .b p{
+      font-size: 30px;
+      font-family: cursive;
+      margin-bottom: 20px;
+  }
+  .C{
+     
+      background-color: #CCCCFF;
+      padding: 30px;
+      margin:50px ;
+  }
