@@ -1,0 +1,73 @@
+.circular--square { 
+  border-radius: 50%;
+  width: 250px;
+  height: 350px;
+ }
+
+body{
+  background-color: #A569BD
+}
+body h1 {
+  text-align: center;
+  font-family: cursive;
+  color: rgb(113, 233, 233);
+  size: 40px;
+}
+body h2{
+  font-family: cursive;
+  color: rgb(113, 233, 233)
+
+}
+body p{
+  text-align: center;
+  color: aqua;
+  font-size: 30px;
+  font-family: cursive;
+  
+}
+hr{
+  border-style: none;
+  border-color: grey;
+}
+.top-icon{
+  display: block;
+  background-color:aqua;
+  height: 100px;
+  width: 1350px;
+  image-orientation: inherit;
+}
+img{
+  
+  height: 200px;
+  width: 150px;
+  align-content: center;
+
+}
+a {
+  float: center;
+  color:blueviolet;
+  align-items: flex-start;
+}
+h3{
+  font-family:cursive;
+  font-style: oblique;
+   font-size: 25px;
+   color: blueviolet;
+
+}
+div,line{
+  background-color: aqua;
+
+}
+
+.line{
+  font-family: cursive;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  
+}
+
+  
+  
+
